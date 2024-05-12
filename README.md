@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Hegoi
 #### desarrollador en Python
-![desarrollador en Python](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![desarrollador en Python]
 
 Llevo más de dos años formándome por mi cuenta con ayuda de cursos online, estoy buscando mi primer empleo como desarrollador con mucha motivación.
 
